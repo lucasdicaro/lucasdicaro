@@ -56,18 +56,6 @@ Actualmente me encuentro cursando el bootcamp intensivo de henry de Full Stack D
   
   ---
   
- 
-
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octaviobissutti&show_icons=true&theme=dark&locale=es" alt="oti" /></p></div>
-
-<div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviobissutti&show_icons=true&theme=dark&locale=es&layout=compact" alt="oti" /></p></div>
-
-  ---
-
-  <h3>Pokemon</h3>
- <a href="https://github.com/octaviobissutti/PI-Pokemon">
- <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=octaviobissutti&repo=PI-Pokemon&show_owner=true" />
-</a>
 
 
 
