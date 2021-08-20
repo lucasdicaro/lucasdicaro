@@ -2,7 +2,7 @@
 
 Actualmente me encuentro cursando el bootcamp intensivo de henry de Full Stack Developer. Trabajando en equipo dia a dia buscando resolver problemas, poder aprender nuevas tecnologías, superar mis conocimientos y mejorar mis habilidades. 
 
- 👨🏽‍💻 Algunas de las tecnologias que manejo: **JavaScript, React, Redux, HTML5, CSS, Node Js, Express, Sequelize, PostgreSQL, API y dB management**.
+ 👨🏽‍💻 Algunas de las tecnologias que manejo: **JavaScript, React, Redux, HTML5, CSS3, Node Js, Express, Sequelize, PostgreSQL, API y dB management**.
 
  😁 Me considero una persona alegre,capaz, responsable y con la posibilidad de adaptarme a las necesidades especificas. 
 
@@ -14,14 +14,14 @@ Actualmente me encuentro cursando el bootcamp intensivo de henry de Full Stack D
 ### Languages and Tools:
 <p align="left">
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+ <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
-  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
-  <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/>  
+  <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/> 
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
+   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
-  <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:git.svg" alt="git" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:terminal.svg" alt="terminal" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:visual-studio.svg" alt="visualstudio" height="40" width="40"/> 
